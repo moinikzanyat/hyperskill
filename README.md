@@ -1,2 +1,2 @@
 # hyperskill
-Репозиторий для jобучения hyperskill
+Репозиторий для обучения hyperskill
